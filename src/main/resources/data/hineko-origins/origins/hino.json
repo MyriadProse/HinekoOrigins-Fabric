@@ -1,0 +1,12 @@
+{
+    "name":"Hino",
+    "description":"A mystical space cat type deal that can fly and heal and stuff.",
+    "powers":[
+        "hineko-origins:fluttering_wings",
+        "hineko-origins:fodder",
+        "hineko-origins:regeneration"
+    ],
+    "icon": "minecraft:peony",
+    "order": 1,
+    "impact": 2
+}

@@ -1,0 +1,14 @@
+{
+    "name":"The Myriad",
+    "description":"A weird kinda cave dweller type thing that is good at building and can climb and stuff.",
+    "powers":[
+        "origins:climbing",
+        "origins:fall_immunity",
+        "origins:scare_creepers",
+        "hineko-origins:myriad_crafting"
+    ],
+    "unchoosable":true,
+    "icon": "minecraft:tadpole_bucket",
+    "order": 1,
+    "impact": 2
+}

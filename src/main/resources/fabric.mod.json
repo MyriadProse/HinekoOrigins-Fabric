@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "hineko-origins",
+	"version": "${version}",
+	"name": "Hineko Origins",
+	"description": "Custom origins for Hino Serene Minecraft SMP.",
+	"authors": [
+		"MyriadPro(se)"
+	],
+	"contact": {
+		"homepage": "https://github.com/MyriadProse",
+		"sources": "https://github.com/MyriadProse/hineko-origins"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/hineko-origins/icon.png",
+	"environment": "*",
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

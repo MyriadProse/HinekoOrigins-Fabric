@@ -1,0 +1,11 @@
+{
+    "name":"Water Breathing",
+    "description":"You gain air while underwater, making you able to breathe!",
+    "type":"origins:action_over_time",
+    "action":"origins:gain_air",
+    "interal":1,
+    "condition": {
+        "type":"origins:submerged_in",
+        "fluid":"minecraft:water"
+    }
+}
